@@ -3,3 +3,4 @@ Flipkart
 Jio
 Samsung
 Facebook
+Instagram
